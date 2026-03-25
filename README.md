@@ -1,7 +1,7 @@
 ﻿# DistribuidosP2
-##Ejercicio 1. Mirar Código
-##Ejercicio 2. Mirar Código
-##Ejercicio 3.  ¿Conoces JUnit? , ¿Conoces TDD?
+## Ejercicio 1. Mirar Código
+## Ejercicio 2. Mirar Código
+## Ejercicio 3.  ¿Conoces JUnit? , ¿Conoces TDD?
 
 JUnit es el framework de testing usado para la realización de las pruebas unitarias. Esta librería se importa en el código mediante la línea:
 
@@ -21,7 +21,7 @@ En cuanto a TDD (Test Driven Development), se trata de una metodología en la qu
 
 Sabemos que no hemos aplicado TDD de forma estricta, ya que la implementación no ha sido guiada desde el inicio por los tests. Sin embargo, se ha seguido un enfoque similar, utilizando pruebas unitarias para validar el comportamiento del sistema y asegurar la corrección de la lógica implementada.
 
-##Ejercicio 4. ¿Qué porcentaje de cobertura de código tienen tus tests?
+## Ejercicio 4. ¿Qué porcentaje de cobertura de código tienen tus tests?
 
 
 La cobertura de código mide qué partes del programa han sido ejecutadas durante la ejecución de los tests. Para ello se pueden utilizar herramientas como JaCoCo, que analizan qué métodos y ramas del código han sido cubiertos.
